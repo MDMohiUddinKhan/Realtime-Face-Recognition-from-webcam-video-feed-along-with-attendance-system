@@ -4,3 +4,7 @@ For the EEE 4702 Digital Signal Processing Lab Project, I brainstormed a basic f
 
 # Simulation Video Link
 https://drive.google.com/file/d/1ZZmRD8DceEjB3MvWaUul5aAMLAMq2g1L/view?usp=sharing
+
+
+
+![UniConverter_20201128022121](https://user-images.githubusercontent.com/69683125/100482101-8d0bb000-3120-11eb-83a5-ea7b366b11f5.gif)
